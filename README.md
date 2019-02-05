@@ -14,9 +14,9 @@ As a junior full stack developer and Engineer, I'd like to be able to build soft
 | Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
 | [Meet&Eat](https://github.com/criszelaya24/Meet-and-Eat) | WebApp thats allows you to create a post about where do you want to eat and others could joint it. [Deployed on Heroku](https://meet-andeat.herokuapp.com) | Ruby Rials, Jquery, Boostrap, Rspec, Capybara, Travis, Heroku |
-| [Acebook](https://github.com/criszelaya24/acebook) | Facebook clone [deployed on Heroku](https://aqueous-wave-77193.herokuapp.com) | Ruby Rails, RSpec, Capybara, Travis, Heroku |
+| [Acebook](https://github.com/criszelaya24/acebook) | Facebook clone [Deployed on Heroku](https://aqueous-wave-77193.herokuapp.com) | Ruby Rails, RSpec, Capybara, Travis, Heroku |
 | [MakersB&B](https://github.com/criszelaya24/makersbandb) | AirbB&B clone | express JS, MongoDB, Jasmine, Cypress |
-| [Bookmark Manager](https://github.com/criszelaya24/bookmarks_manager) | Web app that Save your URL secure and | Boostrap, Sinatra, Rspec, Capybara, Ruby |
+| [Bookmark Manager](https://github.com/criszelaya24/bookmarks_manager) | Web app that Save your URL secure and quickly | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 
 ## Skills
 
