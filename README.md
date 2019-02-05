@@ -3,7 +3,7 @@
 ### [About me](#About)
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
-##About me
+## About me
 
 I'm in the process of finishing my degree in Computer Sciences in one of the Public Universities of Nicaragua (At UNI). As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of! So far with my experience at university, I have realized how simple and how complex everyday tech such as a program, a game, a web page, or even a home network can be.
 
