@@ -11,7 +11,7 @@ As a junior full stack developer and Engineer, I'd like to be able to build soft
 
 ## Skills
 
-#### Initiative
+#### *Initiative*
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
@@ -20,7 +20,7 @@ As a junior full stack developer and Engineer, I'd like to be able to build soft
 
 Studying in Nicaragua, I started from zero. At my university, we had already begun searching for information about coding web pages and apps, and as a result I decided to create a group with my classmates where we could help each other. It was tough, but I knew we would get through many more challenges together than apart. The goal was teamwork. 
 
-#### Fast learner
+#### *Fast learner*
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
@@ -29,7 +29,7 @@ Studying in Nicaragua, I started from zero. At my university, we had already beg
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 I took the opportunity to work and help to complete a tech project in six months in Nicaragua in a public Clinic in Ciudad Sandino, the most deprived area of the city. This included the combination of a web page and Wifi network configuration with Mikrotik Technology. I worked together with a highly accredited team in Poland, Miquido, and my role was to create and deploy a reliable Wifi that supplied all the patients that visited the clinic and redirected them to the web App before they had access to the internet, in order to provide them with some education on important topics such as contraception and healthy lifestyle advice, as well as providing feedback to the clinic on its services. I analyse the data resulting from this project on an ongoing basis to gather new insights into health and wellbeing in one of Nicaragua's most difficult communities. I had to teach myself to become competent in managing this technology, and learn to work with an outsourced team of professional developers.
 
-#### Open mind
+#### *Open mind*
 
 I wouldn't be able to finish Maker's course unless I was an open-minded person - there aren't many students from Nicaragua that make it to the UK and step outside the confines of their university degree. My father taught me to be like this - his attitude towards his work in Managua is something that inspires me and I want to take this even further in my own life.
 
