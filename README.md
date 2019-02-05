@@ -1,8 +1,13 @@
-## Cristopher Palacios
+# Cristopher Palacios
+
+### [About me](#About)
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
+
+##About me
+
 I'm in the process of finishing my degree in Computer Sciences in one of the Public Universities of Nicaragua (At UNI). As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of! So far with my experience at university, I have realized how simple and how complex everyday tech such as a program, a game, a web page, or even a home network can be.
 
-As a future full stack developer and Engineering, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
+As a junior full stack developer and Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
 
 ## Skills
 
@@ -26,7 +31,7 @@ I took the opportunity to work and help to complete a tech project in six months
 
 #### Open mind
 
-I wouldn't be on this course unless I was an open-minded person - there aren't many students from Nicaragua that make it to the UK and step outside the confines of their university degree. My father taught me to be like this - his attitude towards his work in Managua is something that inspires me and I want to take this even further in my own life.
+I wouldn't be able to finish Maker's course unless I was an open-minded person - there aren't many students from Nicaragua that make it to the UK and step outside the confines of their university degree. My father taught me to be like this - his attitude towards his work in Managua is something that inspires me and I want to take this even further in my own life.
 
 ## Education
 
@@ -40,17 +45,22 @@ I wouldn't be on this course unless I was an open-minded person - there aren't m
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-Curious about code, problem-solver and collaborator. Next technologies to get a grip on:
+Curious about code, problem-solver and collaborator. Current technologies:
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec
+<p align="justify">
+  Mains projects
+</p>
+
+
 
 #### UNI (National University of Engineering) (January 2013 to Present)
 
 - Computer Engineering.
-- Expected date of graduation: June,2019
+- Expected date of graduation: December,2019
 
 ## Experience
 
