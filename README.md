@@ -1,6 +1,6 @@
 # Cristopher Palacios
 
-### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Additional Skills](#Additional_Skills)
+### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Languages](#Languages)
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## About
@@ -83,6 +83,6 @@ I worked in the technical support area, Solving issues that the users faced like
 **Nifi** *(January 2018 to present)*   
 My roles: WiFi network Supervisor, problem-solver and QA tester
 
-## Additional skills
+## Languages
 
 **Foreign Languages:** Native Spanish speaker and intermediate-advanced English speaker
