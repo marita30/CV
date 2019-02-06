@@ -71,7 +71,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-#### **UNI (National University of Engineering) (January 2013 to Present)**
+#### **[UNI (National University of Engineering)](https://www.uni.edu.ni) (January 2013 to Present)**
 
 - Computer Engineering.
 - Expected date of graduation: December,2019
