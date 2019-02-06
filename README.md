@@ -1,6 +1,6 @@
 # Cristopher Palacios
 
-### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Additional Skills](#Additional Skills)
+### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Additional Skills](#Additional_Skills)
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## About
