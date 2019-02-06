@@ -17,6 +17,7 @@ As a junior full stack developer and Engineer, I'd like to be able to build soft
 | [Acebook](https://github.com/criszelaya24/acebook) | Facebook clone [Deployed on Heroku](https://aqueous-wave-77193.herokuapp.com) | Ruby Rails, RSpec, Capybara, Travis, Heroku |
 | [MakersB&B](https://github.com/criszelaya24/makersbandb) | AirbB&B clone | express JS, MongoDB, Jasmine, Cypress |
 | [Bookmark Manager](https://github.com/criszelaya24/bookmarks_manager) | Web app that Save your URL secure and quickly | Boostrap, Sinatra, Rspec, Capybara, Ruby |
+| [chitter-challenge](https://github.com/criszelaya24/chitter-challenge) | Twitter-clone | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 
 ## Skills
 
