@@ -61,7 +61,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 ## Education
 
 #### **[Makers Academy](https://makers.tech) (October 29 to February 1)(London, England)**
--A 16-week intensive development bootcamp.
+- A 16-week intensive development bootcamp.
 <!-- - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
