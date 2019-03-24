@@ -93,4 +93,4 @@ I put in practice my new skills to try to master back-end and front-end from NiF
 **Foreign Languages:** Native Spanish speaker and intermediate-advanced English speaker
 
 ## Others
-**[Personal Experience](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) 6 minutes read!**
+**[Personal Experience](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9), 6 minutes read!**
