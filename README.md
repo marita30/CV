@@ -53,7 +53,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 ```
 - OOP, TDD, MVC, DDD
 - Agile/XP, Scrum
-- Ruby, Rails, JavaScript, Express, Sinatra, Golang, Angular, Jquery
+- Ruby, Rails, JavaScript, Express, Sinatra, Golang, Angular, Jquery, JSON
 - Postgres BD
 - RSpec, Jasmine, Cabypara
 - Responsive Web Design (Boostrap library)
