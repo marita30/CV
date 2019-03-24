@@ -9,6 +9,8 @@ I'm in the process of finishing my degree in Computer Sciences in one of the Pub
 
 As a junior full stack developer and future Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
 
+If you want to know more about me, please take a look to this [Personal Experience](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9), 6 minutes read!
+
 ## Projects
 
 | Project        | Summary           | Technologies  |
@@ -91,6 +93,3 @@ I put in practice my new skills to try to master back-end and front-end from NiF
 ## Languages
 
 **Foreign Languages:** Native Spanish speaker and intermediate-advanced English speaker
-
-## Others
-**[Personal Experience](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9), 6 minutes read!**
