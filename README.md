@@ -1,6 +1,6 @@
 # Cristopher Palacios
 
-### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Languages](#Languages)
+### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Languages](#Languages) | [Others](#Others)
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## About
@@ -52,10 +52,11 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 ```
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, Express, Sinatra, Golang, Angular
+- Agile/XP, Scrum
+- Ruby, Rails, JavaScript, Express, Sinatra, Golang, Angular, Jquery
 - Postgres BD
 - RSpec, Jasmine, Cabypara
+- Responsive Web Design (Boostrap library)
 ```
 
 ## Education
@@ -78,7 +79,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 ## Experience
 
-**Auto Lote el Chele** *(October 2017 to December 2017)*    
+**Grupo el Chele** *(October 2017 to December 2017)*    
 I worked in the technical support area, Solving issues that the users faced like guide them how to use local software, making pc configuration and in any situation that my help was needed  
 
 **Nifi** *(January 2018 to present)*   
@@ -90,3 +91,6 @@ I put in practice my new skills to try to master back-end and front-end from NiF
 ## Languages
 
 **Foreign Languages:** Native Spanish speaker and intermediate-advanced English speaker
+
+## Others
+**[Personal Experience](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) 6 minutes read!**
