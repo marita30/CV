@@ -9,7 +9,7 @@ I'm in the process of finishing my degree in Computer Sciences in one of the Pub
 
 As a junior full stack developer and future Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
 
-In the last year I have travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9).
+In the last and part of the current year I travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9).
 
 ## Projects
 
@@ -56,7 +56,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - OOP, TDD, MVC, DDD
 - Agile/XP, Scrum
 - Ruby, Rails, JavaScript, Express, Sinatra, Golang, Angular, Jquery, JSON
-- Postgres BD
+- Postgres DB
 - RSpec, Jasmine, Cabypara
 - Responsive Web Design (Boostrap library)
 ```
