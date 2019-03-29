@@ -5,11 +5,11 @@
 
 ## About
 
-I'm in the process of finishing my degree in Computer Sciences in one of the Public Universities of Nicaragua (At UNI). As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of! So far with my experience at university, I have realized how simple and how complex everyday tech such as a program, a game, a web page, or even a home network can be.
+I'm in the process of finishing my degree in Computer Sciences in one of the Public Universities of Nicaragua (At UNI). As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of. My experience at university has helped me take that early excitement and turn it into skills that I hope to use to build the next generation of technologies.
 
 As a junior full stack developer and future Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
 
-If you want to know more about me, please take a look to this [Personal Experience](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9), 6 minutes read!
+In the last year I have travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9).
 
 ## Projects
 
