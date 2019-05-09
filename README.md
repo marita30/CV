@@ -1,10 +1,3 @@
----
-layout: page test
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
----
-
 # Cristopher Palacios
 
 ### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Experience](#Experience) | [Languages](#Languages)
