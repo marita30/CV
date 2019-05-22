@@ -21,7 +21,7 @@ In the last and part of the current year I travelled to Europe to complete a Mak
 | [Bookmark Manager](https://github.com/criszelaya24/bookmarks_manager) | Web app that Save your URL secure and quickly | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 | [chitter-challenge](https://github.com/criszelaya24/chitter-challenge) | Twitter-clone | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 | [Thermostate](https://github.com/criszelaya24/thermostate) | Simulation of a thermostate controller | Boostrap, Sinatra, Ruby, Jasmine, Jquery, JS |
-| [AppScore](https://github.com/criszelaya24/AppScore) | Connection with an API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API, Figaro, boostrap|
+| [AppScore](https://github.com/criszelaya24/AppScore) | Connection with external Soccer API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API, Figaro, boostrap|
 
 ## Skills
 
