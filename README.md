@@ -56,15 +56,16 @@ Be in touch during 16-intensive week with new people not only from london, in an
 ```
 - OOP, TDD, MVC, DDD
 - Agile/XP, Scrum
-- Ruby, Rails, JavaScript, Express, Sinatra, Golang, Angular, Jquery, JSON
+- Ruby, Rails, JavaScript,BackBones, Express
+- Sinatra, Golang, Angular, Jquery, JSON
 - Postgres DB
-- RSpec, Jasmine, Cabypara
+- RSpec, Jasmine, Cabypara, Cucumber
 - Responsive Web Design (Boostrap library)
 ```
 
 ## Education
 
-#### **[Makers Academy](https://makers.tech) (October 29 to February 1)(London, England)**
+#### **[Makers Academy](https://makers.tech) (October 29 to February 1 of 2019)(London, England)**
 - A 16-week intensive development bootcamp.
 <!-- - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -82,14 +83,20 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 ## Experience
 
-- **Grupo el Chele** *(October 2017 to December 2017)*    
+- **Grupo el Chele** *(November 2017 to December 2017)*    
 I worked in the technical support area, Solving issues that the users faced like guide them how to use local software, making pc configuration and in any situation that my help was needed  
 
-- **Nifi** *(January 2018 to present)*   
+- **Nifi** *(January 2018 to October 2018)*   
 My roles: WiFi network Supervisor, problem-solver and QA tester
 
 - **Intern Full Stack Developer Miquido** *(February 2019)*
-I put in practice my new skills to try to master back-end and front-end from NiFi Project to be able to make changes in the future.
+I putted in practice my new skills to try to master back-end and front-end from NiFi Project to be able to make changes in the future.
+
+- **AG software** (April 2019 - January 2019)
+Junior Software developer, Responsable of developing new features and fixing bugs to [RubyLedger Web Application](https://www.rubyledger.com)
+
+- **Fanatiz** (January 2019 - Present)
+Engineering Analyst
 
 ## Languages
 
