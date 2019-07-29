@@ -7,9 +7,9 @@
 
 I'm in the process of finishing my degree in Computer Sciences in one of the Public Universities of Nicaragua (At UNI). As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of. My experience at university has helped me take that early excitement and turn it into skills that I hope to use to build the next generation of technologies.
 
-As a junior full stack developer and future Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
+As a Semi-Senior full stack developer and future Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
 
-In the last and part of the current year I travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) and also you'll find a resume of all my work in [Sourcerer](https://sourcerer.io/criszelaya24)
+In the last year and part of the current year I travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) and also you'll find a resume of all my work in [Sourcerer](https://sourcerer.io/criszelaya24)
 
 ## Projects
 
@@ -67,9 +67,7 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 #### **[Makers Academy](https://makers.tech) (October 29 to February 1 of 2019)(London, England)**
 - A 16-week intensive development bootcamp.
-<!-- - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Great collaborator.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
