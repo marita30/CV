@@ -21,7 +21,8 @@ In the last year and part of the current year I travelled to Europe to complete 
 | [Bookmark Manager](https://github.com/criszelaya24/bookmarks_manager) | Web app that Save your URL secure and quickly | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 | [chitter-challenge](https://github.com/criszelaya24/chitter-challenge) | Twitter-clone | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 | [Thermostate](https://github.com/criszelaya24/thermostate) | Simulation of a thermostate controller | Boostrap, Sinatra, Ruby, Jasmine, Jquery, JS |
-| [AppScore](https://github.com/criszelaya24/AppScore) | Connection with external Soccer API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API, Figaro, boostrap|
+| [AppScore](https://github.com/criszelaya24/AppScore) | Connection with external Soccer API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API Football data, Figaro, boostrap|
+| [API-Admin](https://github.com/criszelaya24/admin-api)| API that manage the entrance and exit from employees and their profile [Online version](https://admin-runa-hr-api.herokuapp.com/app/v1) | Ruby Rails, Heroku CLI, postgres, JWT, Postman |
 
 ## Skills
 
@@ -51,16 +52,19 @@ I wouldn't be able to finish Maker's course unless I was an open-minded person -
 
 Be in touch during 16-intensive week with new people not only from london, in an intensive course forced me to learn how to write a clean and readable code for them also to be able to work efficiently and quickly by learning the best practice from coding but not for that I'm just a great team player, I consider the best way to keep a great team-work is by keeping a good communication with the rest of your team. 
 
-## Technologies
+## Technologies & Methodologies
 
 ```
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, BDD
 - Agile/XP, Scrum
-- Ruby, Rails, JavaScript,BackBones, Express
-- Sinatra, Golang, Angular, Jquery, JSON
-- Postgres DB
-- RSpec, Jasmine, Cabypara, Cucumber
+- Ruby, Rails, JavaScript, BackBones, Express, Node
+- Sinatra, Golang, Angular, Jquery, JSON, React, CSS, JWT
+- Postgres SQL, Mongo DB, Myqsl
+- RSpec, Jasmine, Cabypara, Cucumber, Selenium, BDDfire
 - Responsive Web Design (Boostrap library)
+- Git / Github / Bitbucket
+- Travis CI
+- Rubocop, ESlint
 ```
 
 ## Education
