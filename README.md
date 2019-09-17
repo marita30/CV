@@ -20,7 +20,7 @@ In the last year and part of the current year I travelled to Europe to complete 
 | [MakersB&B](https://github.com/criszelaya24/makersbandb) | AirbB&B clone | express JS, MongoDB, Jasmine, Cypress |
 | [Bookmark Manager](https://github.com/criszelaya24/bookmarks_manager) | Web app that Save your URL secure and quickly | Boostrap, Sinatra, Rspec, Capybara, Ruby |
 | [chitter-challenge](https://github.com/criszelaya24/chitter-challenge) | Twitter-clone | Boostrap, Sinatra, Rspec, Capybara, Ruby |
-| [Thermostate](https://github.com/criszelaya24/thermostate) | Simulation of a thermostate controller | Boostrap, Sinatra, Ruby, Jasmine, Jquery, JS |
+| [Thermostate](https://github.com/criszelaya24/thermostate) | Simulation of a thermostate controller | Boostrap, Sinatra, Ruby, Jasmine, Jquery, JS, API wheater |
 | [AppScore](https://github.com/criszelaya24/AppScore) | Connection with external Soccer API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API Football data, Figaro, boostrap|
 | [API-Admin](https://github.com/criszelaya24/admin-api)| API that manage the entrance and exit from employees and their profile [Online version](https://admin-runa-hr-api.herokuapp.com/app/v1) | Ruby Rails, Heroku CLI, postgres, JWT, Postman |
 
