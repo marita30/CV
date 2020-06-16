@@ -5,11 +5,13 @@
 
 ## About
 
-I'm in the process of finishing my degree in Computer Sciences in one of the Public Universities of Nicaragua (At UNI). As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of. My experience at university has helped me take that early excitement and turn it into skills that I hope to use to build the next generation of technologies.
+As a child, on my free weekends I used to work in a Cyber Cafe, and I have always been interested in the tech world, how it made things happen, and what it was made of. My experience at university, Makers and working internationally has helped me take that early excitement and turn it into skills that I hope to use to build the next generation of technologies.
 
-As a Semi-Senior full stack developer and future Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
+As a Semi-Senior full stack developer and Engineer, I'd like to be able to build softwares simply, starting with the core (Code Side) and what the user can see and get from them. I'd like to use my creativity to contribute to companies to give professional, short and quality solutions to any problem that it faces.
 
-In the last year and part of the current year I travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) and also you'll find a resume of all my work in [Sourcerer](https://sourcerer.io/criszelaya24)
+In the last year I travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) and also you'll find a resume of all my work in [Sourcerer](https://sourcerer.io/criszelaya24)
+
+After that first world experience I found a great job opportunity in Chile, Wich I'm currently living.
 
 ## Projects
 
@@ -23,6 +25,7 @@ In the last year and part of the current year I travelled to Europe to complete 
 | [Thermostate](https://github.com/criszelaya24/thermostate) | Simulation of a thermostate controller | Boostrap, Sinatra, Ruby, Jasmine, Jquery, JS, API wheater |
 | [AppScore](https://github.com/criszelaya24/AppScore) | Connection with external Soccer API [Deployed on Heroku](https://appscore.herokuapp.com) | Ruby Rails, Heroku CLI, css, jquery, API Football data, Figaro, boostrap|
 | [API-Admin](https://github.com/criszelaya24/admin-api)| API that manage the entrance and exit from employees and their profile [Online version](https://admin-runa-hr-api.herokuapp.com/app/v1) | Ruby Rails, Heroku CLI, postgres, JWT, Postman |
+| [Burguer-Builder](https://github.com/criszelaya24/burger-builder)| Mini project which is based on build a personal burguer and then move to a checkout to order it [Online version](https://burguer-builder-app.herokuapp.com/) | React, Heroku CLI, Firebase, JWT, Redux, CSS, Node, Javascript, JSX |
 
 ## Skills
 
@@ -76,6 +79,8 @@ Be in touch during 16-intensive week with new people not only from london, in an
 - Computer Engineering.
 - Expected date of graduation: December,2019
 
+#### **[Udemy (Online Course)](https://www.udemy.com/)(January 2020)
+
 ## Experience
 
 - **Grupo el Chele** *(November 2017 to December 2017)*    
@@ -87,11 +92,22 @@ My roles: WiFi network Supervisor, problem-solver and QA tester
 - **Intern Full Stack Developer Miquido** *(February 2019)*
 I putted in practice my new skills to try to master back-end and front-end from NiFi Project to be able to make changes in the future.
 
-- **AG software** (April 2019 - January 2019)
+- **AG software** *(April 2019 - January 2019)*
 Junior Software developer, Responsable of developing new features and fixing bugs to [RubyLedger Web Application](https://www.rubyledger.com)
 
-- **Fanatiz** (January 2019 - Present)
-Engineering Analyst
+- **Fanatiz** *(January 2019 - Present)*
+
+***Engineering Analyst***
+
+In charge to speed up internal processes using RoR, connecting to
+severals APIs, generating internal reports to analyse them and take
+decisions from there.
+
+***Fullstack Developer***
+
+Based on the client's and the company needs are created and
+maintained features from the current platform, working both front
+and back-end (Micro-service and Cloud Base Architecture).
 
 ## Languages
 
