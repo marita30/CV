@@ -85,13 +85,13 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 ### **Fanatiz** *(January 2019 - Present)*
 
-- ```Engineering Analyst```
+#### ```Engineering Analyst```
 
 In charge to speed up internal processes using RoR, connecting to
 severals APIs, generating internal reports to analyse them and take
 decisions from there.
 
-- ```Fullstack Developer```
+#### ```Fullstack Developer```
 
 Based on the client's and the company needs are created and
 maintained features from the current platform, working both front
