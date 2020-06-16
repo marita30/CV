@@ -83,27 +83,27 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 ## Experience
 
-- **Grupo el Chele** *(November 2017 to December 2017)*    
+### **Grupo el Chele** *(November 2017 to December 2017)*    
 I worked in the technical support area, Solving issues that the users faced like guide them how to use local software, making pc configuration and in any situation that my help was needed  
 
-- **Nifi** *(January 2018 to October 2018)*   
+### **Nifi** *(January 2018 to October 2018)*   
 My roles: WiFi network Supervisor, problem-solver and QA tester
 
-- **Intern Full Stack Developer Miquido** *(February 2019)*
+### **Intern Full Stack Developer Miquido** *(February 2019)*
 I putted in practice my new skills to try to master back-end and front-end from NiFi Project to be able to make changes in the future.
 
-- **AG software** *(April 2019 - January 2019)*
+### **AG software** *(April 2019 - January 2019)*
 Junior Software developer, Responsable of developing new features and fixing bugs to [RubyLedger Web Application](https://www.rubyledger.com)
 
-- **Fanatiz** *(January 2019 - Present)*
+### **Fanatiz** *(January 2019 - Present)*
 
-***Engineering Analyst***
+- ```Engineering Analyst```
 
 In charge to speed up internal processes using RoR, connecting to
 severals APIs, generating internal reports to analyse them and take
 decisions from there.
 
-***Fullstack Developer***
+- ```Fullstack Developer```
 
 Based on the client's and the company needs are created and
 maintained features from the current platform, working both front
