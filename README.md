@@ -59,8 +59,8 @@ Be in touch during 16-intensive week with new people not only from london, in an
 
 ```
 - OOP, TDD, MVC, DDD, BDD
-- Agile/XP, Scrum
-- Ruby, Rails, JavaScript, BackBones, Express, Node
+- Agile/XP, Scrum, Micro-Services, Cloud Base Architecture
+- Ruby, Rails, JavaScript, BackBones, Express, Node, React, Redux
 - Sinatra, Golang, Angular, Jquery, JSON, React, CSS, JWT
 - Postgres SQL, Mongo DB, Myqsl
 - RSpec, Jasmine, Cabypara, Cucumber, Selenium, BDDfire
