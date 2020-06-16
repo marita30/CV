@@ -11,7 +11,7 @@ As a Semi-Senior full stack developer and Engineer, I'd like to be able to build
 
 In the last year I travelled to Europe to complete a Makers Academy program and an internship in Poland. I shared more about this amazing experience on the [Makers blog](https://blog.makersacademy.com/the-chapter-after-nicaragua-1b470effe2b9) and also you'll find a resume of all my work in [Sourcerer](https://sourcerer.io/criszelaya24)
 
-After that first world experience I found a great job opportunity in Chile, Wich I'm currently living.
+After that first world experience I found a great job opportunity in Chile, Which I'm currently living.
 
 ## Projects
 
