@@ -75,9 +75,8 @@ Be in touch during 16-intensive week with new people not only from london, in an
 #### **[Makers Academy](https://makers.tech) (October 29 to February 1 of 2019)(London, England)**
 - A 16-week intensive development bootcamp.
 
-#### **[UNI (National University of Engineering)](https://www.uni.edu.ni) (January 2013 to Present)**
+#### **[UNI (National University of Engineering)](https://www.uni.edu.ni) (January 2013 to Jun 2018)**
 - Computer Engineering.
-- Expected date of graduation: December,2019
 
 #### **[Udemy (Online Course)](https://www.udemy.com/) (January 2020)**
 
