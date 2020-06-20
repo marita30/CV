@@ -13,7 +13,7 @@ Also You can find more details about my personal projects at [Sourcerer](https:/
 
 | Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
-| [BurgerBuilder](https://github.com/marita30/Curso-Udemy/tree/master/burger) | t's a personal project created with react where you can create your own burger and set your order with personal authentication. [Deployed on Firebase](live url: https://burger-1e5b1.web.app) | React, Redux, Html, Css, JavaScript, firebase, Node |
+| [BurgerBuilder](https://github.com/marita30/Curso-Udemy/tree/master/burger) | t's a personal project created with react where you can create your own burger and set your order with personal authentication [Deployed on Firebase](live url: https://burger-1e5b1.web.app) | React, Redux, Html, Css, JavaScript, firebase, Node |
 | [PersonBlog](https://github.com/marita30/Pruebas-en-HTML) | PersonBlog [Deployed on Heroku](http://london-switzerland-blog.herokuapp.com/index.html) | Heroku, Html, Css |
 | [Thermosthat](https://github.com/marita30/Thermostat-JS) | Simulating the function of a thermometer with javascript. | Ruby, Jquery, Jasmine, css|
 | [AirBnB ](https://github.com/marita30/MakesrBNB) | Create a clone of AirBNB. | Boostrap, Ruby, Sinatra, PostgreSql |
