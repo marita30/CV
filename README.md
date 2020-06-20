@@ -5,7 +5,7 @@
 
 ## About
 
-Recently I had a first world experience traveling to london and my first one outside of my country where my principal goal was to learn english. At that moment I was studing Science Computer at the [National university of engineering](www.uni.edu.ni), so I had an IT background already. Being in London I saw the importance of step up my knowledge as a software engineer so I decide to roll up into the [Makers online bootcamp](https://makers.tech) Which is based in 16 intensive week of coding. Then I have been specializing as a frontend developer taken online course and creating personal project to keep my skills up to date with the latest technologies while I found my first job opportunity 
+Recently I had a first world experience traveling to london and my first one outside of my country where my principal goal was to learn english. At that moment I was studing Science Computer at the [National university of engineering](www.uni.edu.ni), so I had an IT background already. Being in London I saw the importance of step up my knowledge as a software engineer so I decide to roll up into the [Makers online bootcamp](https://makers.tech) Which is based in 16 intensive week of coding. Then I have been specializing as a frontend developer taken online courses and creating personal project to keep my skills up to date with the latest technologies while I found my first job opportunity 
 
 Also You can find more details about my personal projects at [Sourcerer](https://sourcerer.io/marita30).  
 
