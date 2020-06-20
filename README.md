@@ -32,7 +32,7 @@ Also You can find more details about my personal projects at [Sourcerer](https:/
 When I detect something that It could be improved I definetly do it, as an example being in roll in a bootcamp that is based only in english I found it very hard since I'm not a native english speaker, I was just starting my path but I knew this will be my first step to improve my hard and soft skills.
 
 #### ***Fast learner***
-<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+<!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.-->
 
 With my experience at Makers Academy and the online courses like udemy I could prove myself that I'm a fast learner person since I could pick up any tech language and learn it fast, This is the result of having good bases of software Engineer.
 
