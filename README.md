@@ -17,7 +17,7 @@ Also You can find more details about my personal projects at [Sourcerer](https:/
 | [PersonalBlog](https://github.com/marita30/Pruebas-en-HTML) | Personal Blog [Deployed on Heroku](http://london-switzerland-blog.herokuapp.com/index.html) | Heroku, Html, Css |
 | [Thermosthat](https://github.com/marita30/Thermostat-JS) | Simulating the function of a thermometer with javascript. | Ruby, Jquery, Jasmine, css|
 | [AirBnB ](https://github.com/marita30/MakesrBNB) | Create a clone of AirBNB. | Boostrap, Ruby, Sinatra, PostgreSql |
-| [TakeAway](https://github.com/marita30/takeaway-challenge) | Challenge to simulate a delivery food like Uber Eats. | Boostrap, Css, Ruby, Rspec, Boostrap |
+| [TakeAway](https://github.com/marita30/takeaway-challenge) | Challenge to simulate a delivery food like Uber Eats. | Boostrap, Css, Ruby, Rspec, Boostrap, Twilio |
 
 
 ## Skills
