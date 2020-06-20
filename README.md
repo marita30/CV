@@ -1,13 +1,13 @@
-# Cristopher Palacios
+# Maria Jose Chavarria Bravo
 
 ### [About](#About) | [Projects](#Projects) | [Skills](#Skills) | [Technologies](#Technologies) | [Education](#Education) | [Languages](#Languages)
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
 ## About
 
-I had a first world experience traveling to london and my first one outside of my country where my principal goal was to learn english. At that moment I was studing Science Computer at the [National university of engineering](www.uni.edu.ni), so I had an IT background already. Being in London I saw the importance of step up my knowledge as a software engineer so I decide to roll up into the [Makers online bootcamp](https://makers.tech) Which is based in 16 intensive week of coding. Then I have been specializing as a frontend developer taken online course and creating personal project to keep my skills up to date with the latest technologies while I found my first job opportunity 
+Recently I had a first world experience traveling to london and my first one outside of my country where my principal goal was to learn english. At that moment I was studing Science Computer at the [National university of engineering](www.uni.edu.ni), so I had an IT background already. Being in London I saw the importance of step up my knowledge as a software engineer so I decide to roll up into the [Makers online bootcamp](https://makers.tech) Which is based in 16 intensive week of coding. Then I have been specializing as a frontend developer taken online course and creating personal project to keep my skills up to date with the latest technologies while I found my first job opportunity 
 
-Also You can find more details about my person project in [Sourcerer](https://sourcerer.io/marita30).  
+Also You can find more details about my personal projects at [Sourcerer](https://sourcerer.io/marita30).  
 
 ## Projects
 
@@ -29,7 +29,7 @@ Also You can find more details about my person project in [Sourcerer](https://so
 - Achievements
 - Evidence -->
 
-When I detect something that could be improve I definetly do it, as an example being in roll in a bootcamp that is based only in english I found it very hard since I'm not a native english speaker, I was just starting my path but I knew this will be my first step to improve my hard and soft skills.
+When I detect something that It could be improved I definetly do it, as an example being in roll in a bootcamp that is based only in english I found it very hard since I'm not a native english speaker, I was just starting my path but I knew this will be my first step to improve my hard and soft skills.
 
 #### ***Fast learner***
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -37,7 +37,7 @@ When I detect something that could be improve I definetly do it, as an example b
 With my experience at Makers Academy and the online courses like udemy I could prove myself that I'm a fast learner person since I could pick up any tech language and learn it fast, This is the result of having good bases of software Engineer.
 
 #### ***Open mind***
-Being outside of my comfort zone, outside of my country, in a place Which nobody was able to speak a word of spanish and keep traveling around the world, since I'm not in Nicaragua anymore, I'm living here at Chile, force me to be an open mind person and accept different ideologies and cultures
+Being outside of my comfort zone, outside of my country, in a place Which nobody was able to speak a word of spanish and keep traveling around the world, since I'm not in Nicaragua anymore, I'm living here at Chile, force me to be an open minded person and accept different ideologies and cultures
 
 #### ***Team Work***
 Most of my project are personal but There're others That I worked in group since the bootcamp requested. This allowed me to improve this soft skill since I was able to worry about the team, to take decision based on the team's needs and be able to collaborate at github with a team.
