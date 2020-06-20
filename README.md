@@ -9,7 +9,7 @@ Recently I had a first world experience traveling to london and my first one out
 
 Also You can find more details about my personal projects at [Sourcerer](https://sourcerer.io/marita30).  
 
-## Projects
+## Main Projects
 
 | Project        | Summary           | Technologies  |
 | ------------- |:-------------:| -----:|
